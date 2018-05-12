@@ -1,0 +1,37 @@
+_repo: Rosalind-at-Red-Gate_34512
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: &id001 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: *id001
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indiana -- Fiction'
+title: Rosalind at Red Gate
+url: http://www.gutenberg.org/ebooks/34512
